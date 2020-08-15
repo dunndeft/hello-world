@@ -1,7 +1,7 @@
 # hello-world
-Summary
+## Summary
 
-Zane Dunn
+### Zane Dunn
 
 A diligent, self-paced learner, seeking opportunities to build, create, grow, and add value through Brand, Graphic, and Web Design.
 
