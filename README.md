@@ -1,10 +1,13 @@
 # hello-world
+
 ## Summary
 
 ### Zane Dunn
 
-A diligent, self-paced learner, seeking opportunities to build, create, grow, and add value through Brand, Graphic, and Web Design.
+Junior Software QA / Tester at Sozo Labs, working across Mobile,AR, and VR projects.
 
-I'm passionate about art, design, software, and technology. Pursuing financial and time freedom, growing my skills to discover my full potential, and help others to succeed.
+Retrenched in April 2019, I challenged myself to learn how to code.This has empowered me, extended my network, broadened myhorizons, and helped me start a new career path.
 
-Experienced in Digital Design, Graphic Design, Customer Service, and Media Production.
+Experienced in Software Testing, Web Development, Digital Design,Graphic Design, Media Production, and Customer Service.
+
+> "Massive goals don't require massive action. They require consistentaction." - J. Mike Fields
